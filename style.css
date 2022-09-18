@@ -10,7 +10,7 @@ body {
   font-family: 'Poppins';
 }
 
-.header> div{
+.header > div{
     padding: 0 25px;
   display: flex;
   justify-content: space-between;
@@ -51,7 +51,12 @@ nav a {
   background-color: rgba(232, 217, 217, .3)
 }
 
-.h1> 
+#section3{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
 
 
 #button {
